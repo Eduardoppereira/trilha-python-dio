@@ -26,7 +26,7 @@ Criar visualizações interativas e dashboards funcionais para extrair insights 
 
 
 ## Ferramentas
-[![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=FFDD02)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/)
 <br>
 
 ## Desenvolvedor
