@@ -40,7 +40,7 @@ Criar visualizações interativas e dashboards funcionais para extrair insights 
         <span><b>Eduardo Pedrosa</b></span>
       </a>
       <br>
-      <span>Analytics Engineer</span>
+      <span>Data Analyst</span>
     </td>
   </tr>
 </table>
@@ -103,7 +103,7 @@ Create interactive visualizations and functional dashboards to extract valuable 
         <span><b>Eduardo Pedrosa</b></span>
       </a>
       <br>
-      <span>Analytics Engineer</span>
+      <span>Data Analyst</span>
     </td>
   </tr>
 </table>
